@@ -1002,13 +1002,13 @@ html,body{
     .slick-arrow.slick-prev{
         left:0;
         margin-left: 100px;
-        background: url(/svg/arrow.svg) 0 0 / 100% no-repeat;
+        background: url(../svg/arrow.svg) 0 0 / 100% no-repeat;
     }
 
     .slick-arrow.slick-next{
         right:0;
         margin-right: 100px;
-        background: url(/svg/right%20arrow.svg) 0 0 / 100% no-repeat;
+        background: url(../svg/right%20arrow.svg) 0 0 / 100% no-repeat;
     }
 @media (max-width:1241px){
     .slick-arrow{
